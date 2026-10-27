@@ -1,0 +1,6 @@
+{
+  "name": "AI Learning Adventure",
+  "description": "Aplikasi pembelajaran interaktif Informatika kelas X SMK Kurikulum Merdeka berbasis misi gamifikasi, AI Tutor scaffolding, Smart Quiz, Creator Studio, dan evaluasi guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
